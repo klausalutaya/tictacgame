@@ -1,4 +1,4 @@
-const Game = require("../MODELS/Game"); // Import the Game model
+const Game = require("../MODELS/Game"); 
 
 module.exports = {
   createGame: async gameData => {

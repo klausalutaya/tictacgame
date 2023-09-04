@@ -79,7 +79,7 @@ function Board({ updateGameHistory }) {
     let gameResult = winner === "X" ? player1Name : player2Name;
 
     if (winner === null) {
-      gameResult = "Draw";
+      gameResult 2 = "Draw";
     }
 
     try {
