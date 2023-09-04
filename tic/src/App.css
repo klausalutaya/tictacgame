@@ -1,0 +1,42 @@
+
+
+@font-face {
+  font-family: "KallistoHeavy";
+  src: url(./fonts/Kallisto Heavy.otf) format('opentype');
+}
+@font-face {
+  font-family: "KallistoHeavyItalic";
+  src: url(./fonts/Kallisto Heavy Italic.otf) format('opentype');
+}
+@font-face {
+  font-family: "KallistoBoldItalic";
+  src: url(./fonts/Kallisto Bold Italic.otf) format('opentype');
+}
+@font-face {
+  font-family: "KallistoBold";
+  src: url(./fonts/Kallisto Bold.otf) format('opentype');
+}
+@font-face {
+  font-family: "KallistoLightItalic";
+  src: url(./fonts/Kallisto Light Italic.otf) format('opentype');
+}
+@font-face {
+  font-family: "KallistoLight";
+  src: url(./fonts/Kallisto Light.otf) format('opentype');
+}
+@font-face {
+  font-family: "KallistoMeidumItalic";
+  src: url(./fonts/Kallisto Medium Italic.otf) format('opentype');
+}
+@font-face {
+  font-family: "KallistoMedium";
+  src: url(./fonts/Kallisto Medium.otf) format('opentype');
+}
+@font-face {
+  font-family: "KallistoThinItalic";
+  src: url(./fonts/Kallisto Thin Italic.otf) format('opentype');
+}
+@font-face {
+  font-family: "KallistoThin";
+  src: url(./fonts/Kallisto Thin.otf) format('opentype');
+}
